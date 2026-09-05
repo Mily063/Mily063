@@ -2,7 +2,7 @@
 
 ICT (Teleinformatics) engineering student at AGH University of Krakow, working on backend
 services and the infrastructure under them. Day job: building and running internal Python
-and FastAPI services at EC Engineering — and watching the servers they run on, so I know
+and FastAPI services at EC Engineering - and watching the servers they run on, so I know
 what is saturated, which containers are up and which model is eating the GPU.
 
 **Systems & networking** - Linux, TCP/IP, routing and switching (Cisco CCNAv7), network security, QoS
@@ -13,7 +13,7 @@ what is saturated, which containers are up and which model is eating the GPU.
 
 ### Open source
 
-[PR #78](https://github.com/google/cameratrapai/pull/78) to Google's SpeciesNet — multi-crop
+[PR #78](https://github.com/google/cameratrapai/pull/78) to Google's SpeciesNet - multi-crop
 per-detection classification, configurable object filtering and MC-dropout uncertainty
 estimation across 8 files, with the test suite kept green. Reviewed by the maintainers and
 closed without merge on scope grounds. The review thread taught me more about what belongs
